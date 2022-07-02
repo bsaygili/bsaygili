@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-## I'm a father 👨‍🎓, Front-end Developer 🚀, and Engineer 👨‍🎓!
+## I'm a Front-end Developer 🚀, and Engineer 👨‍🎓!
 
 - 🔭 I’m currently working on special app.
 - 🌱 I’m currently learning how to deep in react and always lerner.
