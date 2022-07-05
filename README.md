@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ## I'm a Front-end Developer 🚀, and Engineer 👨‍🎓!
 
 - 🔭 I’m currently working on special app.
-- 🌱 I’m currently learning how to deep in react and always lerner.
+- 🌱 I’m currently learning how to deep in react and always learner.
 - 👯 I’m looking to collaborate on React developer.
 - 🤔 I’m looking for help with ReactJs developer.
 - ⚡ Fun fact: I love to read 🏊‍♀️, play video game ♟ and cycling 🚴‍♀️
