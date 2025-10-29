@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=bsaygili&show_icons=true&theme=gradient) 
 <!-- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bsaygili&show_icons=true&theme=radical)
  -->
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
  
 
