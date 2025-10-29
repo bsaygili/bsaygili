@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to read, play video game and cycling 🚴‍♀️
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=bsaygili&show_icons=true&theme=gradient) 
 <!-- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bsaygili&show_icons=true&theme=radical)
+https://github.com/anuraghazra/github-readme-stats
+themes
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
  -->
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsaygili)](https://github.com/bsaygili)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsaygili&show_icons=true&theme=radical)](https://github.com/bsaygili)
  
  
 
